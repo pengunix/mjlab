@@ -16,3 +16,10 @@ from mjlab.asset_zoo.robots.unitree_go1.go1_constants import (
 from mjlab.asset_zoo.robots.unitree_go1.go1_constants import (
   get_go1_robot_cfg as get_go1_robot_cfg,
 )
+
+from mjlab.asset_zoo.robots.wheel_dog.wheel_dog_constants import (
+  WHEEL_DOG_ACTION_SCALE as WHEEL_DOG_ACTION_SCALE,
+)
+from mjlab.asset_zoo.robots.wheel_dog.wheel_dog_constants import (
+  get_wheel_dog_robot_cfg as get_wheel_dog_robot_cfg,
+)
